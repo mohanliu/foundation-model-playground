@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# local files
+local_dev
+local_data
+local_notebooks

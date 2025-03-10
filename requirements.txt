@@ -1,0 +1,13 @@
+# data science
+numpy
+pandas
+matplotlib
+
+# machine learning
+torch
+torchvision
+
+# jupyter notebook
+jupyter
+ipykernel
+ipywidgets
